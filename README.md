@@ -26,3 +26,5 @@ This project analyzes Meta (Facebook) Ads campaign performance using an interact
 - Analyzed engagement vs purchase behavior trends
 - Evaluated ad effectiveness based on user interaction metrics
 
+## 📷 Dashboard Preview
+![Dashboard Overview](dashboard-overview.png)
